@@ -1,0 +1,4 @@
+# Replace with the real hostnames / IPs of your two systems.
+# slots=1 -> one MPI process per machine.
+system1 slots=1
+system2 slots=1
